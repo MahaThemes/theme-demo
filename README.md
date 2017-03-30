@@ -1,1 +1,1 @@
-# Curated of MahaThemes.com demo data
+# Theme Demo data
